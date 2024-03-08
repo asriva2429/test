@@ -2,4 +2,5 @@
 This is for learning purposes. 
 
 
-author: Ashish Srivastav
+Okay all changes will appear soon.
+author: Asriva Srivastav
